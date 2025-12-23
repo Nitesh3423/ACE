@@ -96,11 +96,13 @@ URL:
 
 Body (JSON, raw): 
 `{
-  "name": "Alice",
+  "username": "Alice",
   "email": "alice@example.com",
   "password": "securePassword123",
   "isAdmin" : true,
 }`
+
+now you can login with the current information and then change back the signup route as it was before.
 
 
 ## Project structure (high level)
