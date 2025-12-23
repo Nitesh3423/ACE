@@ -98,7 +98,8 @@ Body (JSON, raw):
 `{
   "name": "Alice",
   "email": "alice@example.com",
-  "password": "securePassword123"
+  "password": "securePassword123",
+  "isAdmin" : true,
 }`
 
 
