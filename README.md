@@ -106,10 +106,3 @@ Useful pointers:
 
 ## Maintainers
 This repository is maintained by the project owners. Update this section with explicit maintainer/contact information.
-
-## License
-See the `LICENSE` file for license details.
-
----
-
-If you want, I can add CI badges, a `CONTRIBUTING.md` template, or flesh out the environment variable docs. Which would you like next?
