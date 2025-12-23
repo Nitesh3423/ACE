@@ -141,5 +141,9 @@ Useful pointers:
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
+
 ## Maintainers
 This repository is maintained by the project owners. Update this section with explicit maintainer/contact information.
