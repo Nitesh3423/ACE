@@ -1,6 +1,6 @@
 # ACE 
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue)](backend/package.json) [![license](https://img.shields.io/badge/license-ISC-lightgrey)](LICENSE)
+[![version](https://img.shields.io/badge/version-1.0.0-blue)](backend/package.json) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A full‑stack web application prototype combining a Vite + React frontend with an Express + MongoDB backend. 
 
