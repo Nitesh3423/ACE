@@ -24,7 +24,7 @@ Prerequisites
 1) Clone the repository
 
 ```bash
-git clone <your-repo-url> ace
+git clone <repo-url> ace
 cd ace
 ```
 
@@ -68,7 +68,7 @@ Frontend scripts: see [frontend/package.json](frontend/package.json#L1)
 
 ---
 
-## Additional Requirement
+## Additional Setup
 
 Only admins can currently create accounts. To enable public signup temporarily:
 
